@@ -35,7 +35,7 @@ body{
     text-decoration: none;
     color: black;
 }
-.nav-link a :hover{
+.nav-link a:hover{
     color: #dfe6e9;
 }
 .text-hero{
@@ -50,7 +50,8 @@ body{
     line-height: 50px;
 }
 .text-hero p:nth-child(2){
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster', 
+    cursive;
     font-size: 50px;
     margin: 0;
     
@@ -62,7 +63,7 @@ body{
 }
 .btn-here{
     width: 100px;
-    height: 50px;
+    height: 30px;
     border-radius: 10px;
     background-color: transparent;
     border: 1px solid black;
@@ -194,7 +195,7 @@ body{
     font-size: 20px;
     color: white;
     font-weight: bold;
-    /*margin-top: 20px;
+    /* margin-top: 20px;
     margin-bottom: 20px; */
 }
 .skill-1 p:nth-last-child(2),
@@ -237,7 +238,7 @@ body{
     width: 390px;
     height: 5px;
     border-bottom: 2px solid white;
-    margin-bottom: 12px;
+    margin-bottom: 15px;
 }
 
 .contact button{
